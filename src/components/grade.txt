@@ -1,0 +1,9 @@
+ <Button  onClick={()=>{ row.original.grade=this.handleSubmit(row.original,"A");}} value="A"><span class="red">A</span></Button>
+        <Button  onClick={()=>{ row.original.grade=this.handleSubmit(row.original,"B");}} value="B"><span class="red">B</span></Button>
+        <Button  onClick={()=>{ row.original.grade=this.handleSubmit(row.original,"C");}} value="C"><span class="red">C</span></Button>
+        <Button  onClick={()=>{ row.original.grade=this.handleSubmit(row.original,"D");}}value="D"><span class="red">D</span></Button>
+        <Button  onClick={()=>{ row.original.grade=this.handleSubmit(row.original,"F");}} value="F"><span class="red">F</span></Button>
+        <Button  onClick={()=>{ row.original.grade=this.handleSubmit(row.original,"I");}} value="I"><span class="red">I</span></Button>
+        <Button  onClick={()=>{ row.original.grade=this.handleSubmit(row.original,"IP");}} value="IP"><span class="red">IP</span></Button>
+        <Button  onClick={()=>{ row.original.grade=this.handleSubmit(row.original,"S");}} value="S"><span class="red">S</span></Button>
+        <Button  onClick={()=>{ row.original.grade=this.handleSubmit(row.original,"U");}} value="U"><span class="red">U</span></Button>

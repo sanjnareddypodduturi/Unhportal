@@ -1,0 +1,9 @@
+html {
+  font-family: "Open Sans", sans-serif;
+}
+
+@media (min-width: 1025px) {
+  .container {
+    width: 50%;
+  }
+}
